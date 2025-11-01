@@ -1,0 +1,7 @@
+streamlit
+statsmodels
+numpy
+scipy
+matplotlib
+ipywidgets
+jupyter
